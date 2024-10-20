@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/nhattruong02)
 <h1 align="center">Hi 👋, I'm Mai Nhat Truong</h1>
 <h3 align="center">I am a software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQGU8Kwd71qAJA/article-cover_image-shrink_720_1280/0/1675772818659?e=2147483647&v=beta&t=pCPHtBn4uEu30E1xAxqnVgcQCj4UlNqaYJrycpCh158">
